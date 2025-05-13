@@ -1,1 +1,1 @@
-Utility functions for my  updated version
+Utility functions for version video 17
